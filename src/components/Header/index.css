@@ -1,0 +1,43 @@
+.content-container-dark {
+  font-size: 12px;
+  background-color: black;
+  padding: 20px;
+}
+.content-container-white {
+  font-size: 12px;
+  background-color: white;
+  padding: 20px;
+}
+.header {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+}
+.content {
+  width: 100%;
+  padding: 10px 5px;
+}
+.actions {
+  width: 100%;
+  padding: 10px 5px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  cursor: pointer;
+  display: block;
+  padding: 2px 5px;
+  border-radius: 8px;
+  border: 1px solid #cfcece;
+  margin: 10px;
+}
+/* .popup-content {
+  background-color: #0f0f0f;
+  background-size: cover;
+  height: 30vh;
+  padding: 20px;
+} */
